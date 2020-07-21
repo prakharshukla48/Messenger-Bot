@@ -95,11 +95,11 @@ https://wit.ai/docs
 
 ## Authors
 
-* **Ayush Sahu** - *Initial work* - [ayushsahu1999](https://github.com/ayushsahu1999)
+* **Ayush Sahu** - *Initial work* - [prakharshukla](https://github.com/prakharshukla48)
 
 ## License
 
-This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/ayushsahu1999/facebook-messenger-bot/LICENSE/) file for details
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/prakharshukla48/facebook-messenger-bot/LICENSE/) file for details
 
 ## Acknowledgments
 
