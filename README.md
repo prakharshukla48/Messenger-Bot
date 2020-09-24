@@ -94,8 +94,7 @@ https://wit.ai/docs
 ```
 
 ## Authors
-
-* **Ayush Sahu** - *Initial work* - [prakharshukla](https://github.com/prakharshukla48)
+[prakharshukla](https://github.com/prakharshukla48)
 
 ## License
 
